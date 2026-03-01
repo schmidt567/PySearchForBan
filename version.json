@@ -1,0 +1,6 @@
+{
+  "latest_version": "1.7.1",
+  "apk_url": "http://ylnpf.cn:5032/static/V1.7.1.apk",
+  "release_notes": "1.DKZ5\n2.新增举报页动态超时时间\n3.封禁记录增加显示封禁人\n4.对协议进行修改\n5.修复管理端大量已知bug\n6.修复举报页短时间可多次重复添加的bug\n7.将验证更新文件移至github&gitee",
+  "force_update": false
+}
