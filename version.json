@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.7.0",
-  "apk_url": "http://ylnpf.cn:5032/static/V1.7.0.apk",
-  "release_notes": "1.DKZ5不得好死\n2.将验证更新文件移至其他平台",
+  "latest_version": "1.7.1",
+  "apk_url": "",
+  "release_notes": "1.DKZ5不得好死\n2.服务已关停，预计在3天内恢复",
   "force_update": false
 }
