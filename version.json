@@ -1,6 +1,6 @@
 {
   "latest_version": "1.7.2",
-  "apk_url": "http://ylnpf.cn:5032/static/V1.7.1.apk",
-  "release_notes": "1.受法规 30天内需备案 影响,此软件目前停止运营,待备案完成后重新开放",
+  "apk_url": "http://114.66.13.54:5032/static/V1.7.2.apk",
+  "release_notes": "1.修复了一些已知bug",
   "force_update": false
 }
