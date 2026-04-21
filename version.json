@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.7.2",
-  "apk_url": "http://114.66.13.54:5032/static/V1.7.2.apk",
+  "latest_version": "1.7.4",
+  "apk_url": "http://114.66.13.54:5032/static/V1.7.4.apk",
   "release_notes": "1.修复了一些已知bug",
   "force_update": false
 }
